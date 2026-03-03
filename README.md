@@ -22,3 +22,8 @@ Build public proof of consistency
 Revise concepts quickly
 
 Track my red team journey
+
+
+
+## Web Notes
+- [Web Application Basics](Notes/Web/Web-Application-Basics.pdf)
