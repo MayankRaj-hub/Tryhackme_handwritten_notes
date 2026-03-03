@@ -26,4 +26,4 @@ Track my red team journey
 
 
 ## Web Notes
-- [Web Application Basics](Notes/Web/Web-Application-Basics.pdf)
+- [Web Application Basics](https://github.com/MayankRaj-hub/Tryhackme_handwritten_notes/blob/main/Web%20Application%20Basics%20by%20thm.pdf)
