@@ -23,7 +23,7 @@ Revise concepts quickly
 
 Track my red team journey
 
-
+## Firstly, Download the pdf then view it.
 
 ## Web Notes
 - [Web Application Basics](https://github.com/MayankRaj-hub/Tryhackme_handwritten_notes/blob/main/Web%20Application%20Basics%20by%20thm.pdf)
